@@ -173,7 +173,8 @@ Our project simulates this same behavior in a simple educational way.
 </div>
 
 <div class="footer">
-Energy-Efficient CPU Scheduling | OS Project | Vaibhav · Lucky · Navneet
+Energy-Efficient CPU Scheduling | OS Project | pavan . Debasis . Govardhan .Amrita
+
 </div>
 
 </div>
